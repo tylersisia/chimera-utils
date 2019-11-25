@@ -16,7 +16,7 @@ const EventEmitter = require('events')
 const LevinPacket = require('./lib/levinpacket')
 const Transaction = require('./lib/transaction')
 
-class TurtleCoinUtils extends EventEmitter {
+class ChimeraUtils extends EventEmitter {
   constructor () {
     super()
 
@@ -59,4 +59,4 @@ class TurtleCoinUtils extends EventEmitter {
   }
 }
 
-module.exports = new TurtleCoinUtils()
+module.exports = new ChimeraUtils()
