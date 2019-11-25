@@ -1,5 +1,5 @@
 {
-  "name": "turtlecoin-utils",
+  "name": "chimera-utils",
   "version": "1.0.15",
   "description": "A Node.js collection of utilities useful for TurtleCoin developers",
   "main": "index.js",
@@ -7,7 +7,7 @@
   "files": [
     "config.json",
     "index.d.ts",
-    "dist/TurtleCoinUtils.js",
+    "dist/ChimeraUtils.js",
     "lib/*"
   ],
   "engines": {
@@ -19,12 +19,12 @@
     "prepare": "webpack"
   },
   "keywords": [
-    "TurtleCoin",
+    "Chimera",
     "Utilities"
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/turtlecoin/turtlecoin-utils.git"
+    "url": "git+https://github.com/tylersisia/chimera-utils.git"
   },
   "author": "Brandon Lehmann <brandonlehmann@gmail.com>",
   "contributors": [
@@ -32,7 +32,7 @@
   ],
   "license": "GPL-3.0",
   "optionalDependencies": {
-    "turtlecoin-crypto": "^3.1.0"
+    "chimera-crypto": "^3.1.0"
   },
   "dependencies": {
     "crc": "^3.8.0",
