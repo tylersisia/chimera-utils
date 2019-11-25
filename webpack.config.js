@@ -4,8 +4,8 @@ module.exports = {
   mode: 'production',
   entry: './index.js',
   output: {
-    filename: 'TurtleCoinUtils.js',
-    library: 'TurtleCoinUtils',
+    filename: 'ChimeraUtils.js',
+    library: 'ChimeraUtils',
     libraryTarget: 'umd'
   },
   node: {
