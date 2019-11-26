@@ -10,7 +10,7 @@
 
 const Block = require('./lib/block')
 const BlockTemplate = require('./lib/blocktemplate')
-const Crypto = require('./lib/turtlecoin-crypto')
+const Crypto = require('./lib/chimera-crypto')
 const CryptoNote = require('./lib/cryptonote')
 const EventEmitter = require('events')
 const LevinPacket = require('./lib/levinpacket')
