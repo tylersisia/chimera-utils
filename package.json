@@ -1,6 +1,6 @@
 {
   "name": "chimera-utils",
-  "version": "1.0.15",
+  "version": "1.0.16",
   "description": "A Node.js collection of utilities useful for Chimera developers",
   "main": "index.js",
   "types": "index.d.ts",
