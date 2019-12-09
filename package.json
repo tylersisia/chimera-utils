@@ -1,6 +1,6 @@
 {
   "name": "chimera-utils",
-  "version": "1.0.16",
+  "version": "1.0.17",
   "description": "A Node.js collection of utilities useful for Chimera developers",
   "main": "index.js",
   "types": "index.d.ts",
@@ -43,8 +43,8 @@
   },
   "standard": {
     "ignore": [
-      "lib/turtlecoin-crypto/turtlecoin-crypto.js",
-      "lib/turtlecoin-crypto/turtlecoin-crypto-wasm.js",
+      "lib/chimera-crypto/chimera-crypto.js",
+      "lib/chimera-crypto/chimera-crypto-wasm.js",
       "dist/*",
       "docs/*"
     ]
