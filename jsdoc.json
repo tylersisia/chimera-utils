@@ -7,7 +7,7 @@
       "README.md",
       "lib/block.js",
       "lib/blocktemplate.js",
-      "lib/turtlecoin-crypto/index.js",
+      "lib/chimera-crypto/index.js",
       "lib/cryptonote.js",
       "lib/levinpacket.js",
       "lib/transaction.js"
